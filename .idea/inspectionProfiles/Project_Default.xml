@@ -1,0 +1,188 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="absl-py" />
+          <option value="aiofiles" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="altair" />
+          <option value="altgraph" />
+          <option value="analytics-python" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="astunparse" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="auto-py-to-exe" />
+          <option value="backoff" />
+          <option value="bcrypt" />
+          <option value="blinker" />
+          <option value="bottle" />
+          <option value="bottle-websocket" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="contourpy" />
+          <option value="cryptography" />
+          <option value="cycler" />
+          <option value="Eel" />
+          <option value="exceptiongroup" />
+          <option value="fastapi" />
+          <option value="ffmpy" />
+          <option value="filelock" />
+          <option value="Flask" />
+          <option value="flatbuffers" />
+          <option value="fonttools" />
+          <option value="frozenlist" />
+          <option value="fsspec" />
+          <option value="future" />
+          <option value="gast" />
+          <option value="gevent" />
+          <option value="gevent-websocket" />
+          <option value="google-pasta" />
+          <option value="gradio" />
+          <option value="gradio_client" />
+          <option value="greenlet" />
+          <option value="grpcio" />
+          <option value="h11" />
+          <option value="h5py" />
+          <option value="hf-xet" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="huggingface_hub" />
+          <option value="idna" />
+          <option value="importlib_resources" />
+          <option value="invoke" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="joblib" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="keras" />
+          <option value="kiwisolver" />
+          <option value="libclang" />
+          <option value="linkify-it-py" />
+          <option value="macholib" />
+          <option value="Markdown" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="mdit-py-plugins" />
+          <option value="mdurl" />
+          <option value="ml_dtypes" />
+          <option value="monotonic" />
+          <option value="mpmath" />
+          <option value="multidict" />
+          <option value="namex" />
+          <option value="narwhals" />
+          <option value="networkx" />
+          <option value="nltk" />
+          <option value="numpy" />
+          <option value="opencv-python" />
+          <option value="opt_einsum" />
+          <option value="optree" />
+          <option value="orjson" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="paramiko" />
+          <option value="pillow" />
+          <option value="polars" />
+          <option value="polars-runtime-32" />
+          <option value="propcache" />
+          <option value="protobuf" />
+          <option value="psutil" />
+          <option value="py" />
+          <option value="pycparser" />
+          <option value="pycryptodome" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pydub" />
+          <option value="Pygments" />
+          <option value="pyinstaller" />
+          <option value="pyinstaller-hooks-contrib" />
+          <option value="Pympler" />
+          <option value="PyNaCl" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="python-multipart" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="rfc3986" />
+          <option value="rich" />
+          <option value="rpds-py" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="semantic-version" />
+          <option value="shellingham" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="sympy" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="tensorflow" />
+          <option value="termcolor" />
+          <option value="threadpoolctl" />
+          <option value="torch" />
+          <option value="torchvision" />
+          <option value="tqdm" />
+          <option value="ttkbootstrap" />
+          <option value="typer" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="uc-micro-py" />
+          <option value="ultralytics" />
+          <option value="ultralytics-thop" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="websockets" />
+          <option value="Werkzeug" />
+          <option value="wrapt" />
+          <option value="yarl" />
+          <option value="zope.event" />
+          <option value="zope.interface" />
+          <option value="dm-tree" />
+          <option value="docstring_parser" />
+          <option value="einops" />
+          <option value="etils" />
+          <option value="immutabledict" />
+          <option value="promise" />
+          <option value="simple-parsing" />
+          <option value="tensorflow-datasets" />
+          <option value="tensorflow-metadata" />
+          <option value="zipp" />
+          <option value="streamlit" />
+          <option value="captcha" />
+          <option value="pyarrow" />
+          <option value="reportlab" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+          <option value="scipy" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="transaction_api.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
